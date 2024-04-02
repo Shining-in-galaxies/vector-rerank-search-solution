@@ -12,6 +12,10 @@
 - **Customizable Parameters**: Offers flexibility in search settings, including language preference and result limits, to suit various needs.
 - **Easy Integration**: Designed for straightforward implementation into existing projects, enhancing search capabilities with minimal setup.
 
+## Presentation
+
+View presentation [PDF file](https://drive.google.com/file/d/1Dk1V0GrTdpnxxdWYPRh2tYNfLTCbC69N/view?usp=sharing)
+
 ## Getting Started
 
 ### Prerequisites
